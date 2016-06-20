@@ -1,6 +1,6 @@
 {
     "name": "typemutant",
-    "version": "0.1.41",
+    "version": "0.1.42",
     "description": "TypeScript classes and decorators meet immutable.js",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://github.com/densebrian/typemutant.git"
+        "url": "git+ssh://github.com/densebrain/typemutant.git"
     },
     "keywords": [
         "typescript",
@@ -22,9 +22,9 @@
     "author": "Jonathan Glanz",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/densebrian/typemutant/issues"
+        "url": "https://github.com/densebrain/typemutant/issues"
     },
-    "homepage": "https://github.com/densebrian/typemutant#readme",
+    "homepage": "https://github.com/densebrain/typemutant#readme",
     "dependencies": {
         "immutable": "^3.8.1",
         "reflect-metadata": "^0.1.3",
